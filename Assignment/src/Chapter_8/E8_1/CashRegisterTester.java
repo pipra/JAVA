@@ -1,4 +1,4 @@
-package Chapter_8;
+package Chapter_8.E8_1;
 
 public class CashRegisterTester {
         public static void main (String[] args)
